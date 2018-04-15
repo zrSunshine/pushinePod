@@ -1,0 +1,6 @@
+use_frameworks!
+target 'pushinePod_Tests' do
+  pod 'pushinePod', :path => '../'
+  
+  
+end
